@@ -64,9 +64,9 @@ And explained all the while in a popular style
 We add Seven, and Ten, and then multiply out  
    By One Thousand diminished by Eight.*
 
-*"The result we proceed to divide, as you see,
-   By Nine Hundred and Ninety and Two:
-Then subtract Seventeen, and the answer must be
+*"The result we proceed to divide, as you see,  
+   By Nine Hundred and Ninety and Two:  
+Then subtract Seventeen, and the answer must be  
    Exactly and perfectly true.*
 
 *"The method employed I would gladly explain,  
