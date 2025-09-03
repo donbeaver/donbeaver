@@ -4,11 +4,11 @@
 
 ## Tech Interests
 
-- **cryptography** - multiparty protocols (MPC), decentralized random beacons (DRB), zero-knowledge proofs (ZKP), pseudorandom correlation generators (PCG), commodity crypto ($), BFT
+- **cryptography** - multiparty protocols (MPC), decentralized random beacons (DRB), zero-knowledge proofs (ZKP), pseudorandom correlation generators (PCG), commodity crypto ($), BFT, card theory
 - **fintech** - cryptocurrency, defi, snark bridges
 - **machine learning** - vision, interpretation, testing, nlp, causality
 - **user interfaces** - design, testing
-- **quantum** - computing, crypto, deniability, proofs
+- **quantum** - computing, crypto, binding, deniability, proofs
 
 ## Me, Elsewhere
 
